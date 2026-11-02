@@ -1,10 +1,5 @@
 # Module 01 --- TypeScript Fundamentals
 
-> **Level:** Beginner\
-> **Category:** Programming Fundamentals\
-> **Module:** 01\
-> **Status:** In Progress
-
 **Learn Deeply. Build Practically. Explain Clearly.**
 
 Welcome to Module 01 of the TypeScript learning path. This module builds
@@ -62,69 +57,9 @@ By completing this module, you should be able to:
 
 ------------------------------------------------------------------------
 
-## Your TypeScript Learning Workflow
-
-Use this process for every lesson. The goal is not to memorize
-definitions; it is to understand, visualize, implement, and explain each
-concept independently.
-
-``` mermaid
-flowchart TD
-    A["1. Read and Research"] --> B["2. Understand the Concept"]
-    B --> C["3. Visualize the Idea"]
-    C --> D["4. Implement with Code"]
-    D --> E["5. Practice and Debug"]
-    E --> F["6. Document Your Learning"]
-    F --> G["7. Review and Revise"]
-    G --> A
-```
-
-### Step 1 --- Read and Research
-
-Start with the official TypeScript Handbook, documentation, books, and
-trusted technical resources.
-
-### Step 2 --- Understand the Concept
-
-For every topic, ask:
-
--   What is it?
--   Why do we need it?
--   What problem does it solve?
--   How does it work?
--   When should we use it?
--   What are its limitations?
-
-### Step 3 --- Visualize
-
-Use Mermaid diagrams for processes and relationships. Add an educational
-illustration when a picture makes the concept easier to understand.
-
-### Step 4 --- Implement
-
-Write code yourself. Change values, test different inputs, trigger
-compiler errors, and understand the error messages.
-
-### Step 5 --- Practice
-
-Complete small coding tasks, debugging exercises, and interview
-questions.
-
-### Step 6 --- Document
-
-Write explanations in your own words. Keep runnable examples in code
-files and link them from the relevant lesson.
-
-### Step 7 --- Review and Revise
-
-Try to explain the concept without reading your notes. Recreate the
-examples from memory and revisit anything you cannot explain clearly.
-
-------------------------------------------------------------------------
-
 # 1-1. Why Use TypeScript?
 
-`<sub>`{=html}Beginner · Introduction to TypeScript`</sub>`{=html}
+*Beginner · Introduction to TypeScript*
 
 ## 1. Learning Objectives
 
@@ -323,7 +258,7 @@ JavaScript for execution.
 
 # 1-2. What Is TypeScript?
 
-`<sub>`{=html}Beginner · Introduction to TypeScript`</sub>`{=html}
+*Introduction to TypeScript*
 
 ## 1. Learning Objectives
 
@@ -574,7 +509,7 @@ with language servers.
 
 # 1-3. How TypeScript Works Under the Hood
 
-`<sub>`{=html}Beginner · Compiler Fundamentals`</sub>`{=html}
+*Beginner · Compiler Fundamentals*
 
 ## 1. Learning Objectives
 
@@ -757,7 +692,7 @@ compiler settings.
 
 # 1-4. Development Environment Setup
 
-`<sub>`{=html}Beginner · Environment and Tooling`</sub>`{=html}
+*Beginner · Environment and Tooling*
 
 ## 1. Learning Objectives
 
@@ -914,7 +849,7 @@ typescript-learning/
 
 # 1-5. Basic Types in TypeScript
 
-`<sub>`{=html}Beginner · Core Type System`</sub>`{=html}
+*Beginner · Core Type System*
 
 ## 1. Learning Objectives
 
@@ -1167,7 +1102,7 @@ completes normally.
 
 # 1-6. tsconfig and Compiling TypeScript to JavaScript
 
-`<sub>`{=html}Beginner · Environment and Configuration`</sub>`{=html}
+*Beginner · Environment and Configuration*
 
 ## 1. Learning Objectives
 
@@ -1345,7 +1280,7 @@ are reported.
 
 # 1-7. Array, Tuple, and Readonly Modifier
 
-`<sub>`{=html}Beginner · Core Type System`</sub>`{=html}
+*Beginner · Core Type System*
 
 ## 1. Learning Objectives
 
@@ -1533,7 +1468,7 @@ runtime freeze operation.
 
 # 1-8. Optional and Default Parameters in Functions
 
-`<sub>`{=html}Beginner · Functions and Parameters`</sub>`{=html}
+*Beginner · Functions and Parameters*
 
 ## 1. Learning Objectives
 
@@ -1672,7 +1607,7 @@ parameter receives its default value.
 
 # 1-9. Rest Parameters in Functions
 
-`<sub>`{=html}Beginner · Functions and Parameters`</sub>`{=html}
+*Beginner · Functions and Parameters*
 
 ## 1. Learning Objectives
 
@@ -2125,42 +2060,7 @@ Mark this module as complete when you can:
 -   Recreate the important examples independently.
 -   Understand and fix common compiler errors.
 -   Complete the final practical challenge.
--   Answer basic TypeScript interview questions.
-
-------------------------------------------------------------------------
-
-## Recommended Resources
-
-1.  [Official TypeScript
-    Documentation](https://www.typescriptlang.org/docs/)
-2.  [The TypeScript
-    Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
-3.  [TypeScript Playground](https://www.typescriptlang.org/play)
-4.  [TypeScript GitHub
-    Repository](https://github.com/microsoft/TypeScript)
-5.  [Node.js Documentation](https://nodejs.org/docs/)
-
-------------------------------------------------------------------------
-
-## Next Module
-
-**Module 02 --- Advanced Types**
-
-Upcoming topics:
-
--   Union and Intersection Types
--   Literal Types
--   Type Narrowing
--   Type Guards
--   Discriminated Unions
--   `keyof` and `typeof`
--   Mapped Types
--   Conditional Types
--   Utility Types
--   Template Literal Types
--   `infer` Keyword
--   `satisfies` Operator
-
+-   Answer basic TypeScript interview question
 ------------------------------------------------------------------------
 
 **Learn Deeply. Build Practically. Explain Clearly.**
