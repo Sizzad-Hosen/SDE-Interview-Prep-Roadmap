@@ -1996,30 +1996,6 @@ from another interface.
 -   Interfaces support declaration merging and `extends`.
 
 ------------------------------------------------------------------------
-
-# Module Review
-
-## Complete Learning Checklist
-
-### Introduction to TypeScript
-
--   [ ] 1-1. Why Use TypeScript?
--   [ ] 1-2. What Is TypeScript?
--   [ ] 1-3. How TypeScript Works Under the Hood
-
-### Development Environment and Configuration
-
--   [ ] 1-4. Development Environment Setup
--   [ ] 1-6. tsconfig and Compiling TypeScript to JavaScript
-
-### Core Type System
-
--   [ ] 1-5. Basic Types in TypeScript
--   [ ] 1-7. Array, Tuple, and Readonly Modifier
--   [ ] 1-8. Optional and Default Parameters in Functions
--   [ ] 1-9. Rest Parameters in Functions
--   [ ] 1-10. Objects, Type Alias, and Interface
-
 ## Final Module Challenge
 
 Build a small command-line program called **Student Record Manager**.
@@ -2051,18 +2027,6 @@ student-record-manager/
 ├── package.json
 └── tsconfig.json
 ```
-
-## Module Completion Criteria
-
-Mark this module as complete when you can:
-
--   Explain the core concepts without reading your notes.
--   Recreate the important examples independently.
--   Understand and fix common compiler errors.
--   Complete the final practical challenge.
--   Answer basic TypeScript interview question
-------------------------------------------------------------------------
-
 **Learn Deeply. Build Practically. Explain Clearly.**
 
 *Part of the SDE Interview Prep Roadmap --- An Open-Source Software
