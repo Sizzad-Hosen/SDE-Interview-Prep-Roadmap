@@ -2,11 +2,6 @@
 
 *Intermediate · TypeScript Core Concepts*
 
-**Level:** Beginner to Intermediate\
-**Category:** TypeScript Fundamentals\
-**Module:** 02\
-**Status:** In Progress
-
 **Learn Deeply. Build Practically. Explain Clearly.**
 
 This module builds on TypeScript Fundamentals. You will learn how to
@@ -1894,45 +1889,6 @@ flowchart TD
     E --> F["Use async and await"]
     F --> G["Narrow and Display User Data"]
 ```
-
-------------------------------------------------------------------------
-
-## Recommended Resources
-
-1.  [Official TypeScript
-    Documentation](https://www.typescriptlang.org/docs/)
-2.  [The TypeScript
-    Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
-3.  [TypeScript Modules
-    Documentation](https://www.typescriptlang.org/docs/handbook/2/modules.html)
-4.  [TypeScript Narrowing
-    Documentation](https://www.typescriptlang.org/docs/handbook/2/narrowing.html)
-5.  [TypeScript Generics
-    Documentation](https://www.typescriptlang.org/docs/handbook/2/generics.html)
-6.  [TypeScript Playground](https://www.typescriptlang.org/play)
-
-------------------------------------------------------------------------
-
-## Next Module
-
-**Module 03 --- OOP with TypeScript**
-
-Planned topics:
-
--   Classes and Objects
--   Constructors
--   Access Modifiers
--   Inheritance
--   Method Overriding
--   Abstract Classes
--   Interfaces with Classes
--   Static Properties and Methods
--   Getters and Setters
--   Encapsulation
--   Polymorphism
--   Composition vs Inheritance
--   SOLID Principles
-
 ------------------------------------------------------------------------
 
 **Learn Deeply. Build Practically. Explain Clearly.**
