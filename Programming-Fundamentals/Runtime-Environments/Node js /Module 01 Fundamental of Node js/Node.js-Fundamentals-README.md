@@ -3851,44 +3851,6 @@ the code yourself.
   Profiling          Measure performance to find bottlenecks
   Memory Leak        Unneeded objects remain referenced
 
-------------------------------------------------------------------------
-
-## Recommended Resources
-
-Use official documentation as the source of truth. Tutorials are useful
-for learning, but runtime behavior and API details can change between
-Node.js versions.
-
-### Official Node.js Learning Resources
-
-1.  [Introduction to
-    Node.js](https://nodejs.org/learn/getting-started/introduction-to-nodejs)
-2.  [Node.js About Page](https://nodejs.org/en/about)
-3.  [The Node.js Event
-    Loop](https://nodejs.org/learn/asynchronous-work/event-loop-timers-and-nexttick)
-4.  [Overview of Blocking vs
-    Non-Blocking](https://nodejs.org/learn/asynchronous-work/overview-of-blocking-vs-non-blocking)
-5.  [Don't Block the Event
-    Loop](https://nodejs.org/learn/asynchronous-work/dont-block-the-event-loop)
-6.  [Node.js API Documentation](https://nodejs.org/api/)
-7.  [CommonJS Modules](https://nodejs.org/api/modules.html)
-8.  [ECMAScript Modules](https://nodejs.org/api/esm.html)
-9.  [Packages and Module System
-    Rules](https://nodejs.org/api/packages.html)
-10. [File System](https://nodejs.org/api/fs.html)
-11. [HTTP](https://nodejs.org/api/http.html)
-12. [Events](https://nodejs.org/api/events.html)
-13. [Streams](https://nodejs.org/api/stream.html)
-14. [Buffers](https://nodejs.org/api/buffer.html)
-15. [Worker Threads](https://nodejs.org/api/worker_threads.html)
-16. [Child Processes](https://nodejs.org/api/child_process.html)
-17. [Cluster](https://nodejs.org/api/cluster.html)
-18. [Process](https://nodejs.org/api/process.html)
-19. [Performance Hooks](https://nodejs.org/api/perf_hooks.html)
-20. [V8 Module](https://nodejs.org/api/v8.html)
-21. [Node.js Release
-    Schedule](https://nodejs.org/en/about/previous-releases)
-
 ### Final Learning Advice
 
 Do not try to memorize all Node.js APIs in this module. Focus first on
